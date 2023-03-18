@@ -1,0 +1,2 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+            14_RTAFNet_baseline	30.59     	1304.49       	261.461   	132.94    	678.34  	11253.07	 476    
