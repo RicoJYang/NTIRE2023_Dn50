@@ -1,2 +1,4 @@
 # NTIRE2023_Dn50
- v1
+## NTIRE 2023 Image Denoising Challenge (noise level=50)
+
+The pretrained model in the Releases-pretrain.
